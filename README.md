@@ -6,6 +6,6 @@ I'm a Front-End software developer from Brazil (working remotely since 2016). Yo
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/655f57fe5145316d255fce88?variant=dark&roadmaps=frontend%2Cjavascript%2Ctypescript)]([https://roadmap.sh](https://roadmap.sh/frontend?s=655f57fe5145316d255fce88)https://roadmap.sh/frontend?s=655f57fe5145316d255fce88)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carmona&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](./profile/trophy.svg)
 
 [![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmona)](https://github.com/anuraghazra/github-readme-stats)
